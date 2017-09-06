@@ -997,6 +997,8 @@
 
 ## Python 
 
+- [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [WeedBot](https://github.com/nekosune/WeedBot) - Weedbot fork of skybot
 - [skybot](https://github.com/rmmh/skybot) - Python IRC bot
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Python module to easily generate text using a pretrained character-based recurrent neural network.
@@ -1028,7 +1030,6 @@
 - [twitbot](https://github.com/csu/twitbot) - A framework for building modular Twitter bots.
 - [chir.py](https://github.com/acidvegas/chir.py) - A fully automated Twitter news bot, that builds followers, posts, and Bitcoins via PPC links.
 - [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [Supybot-plugins](https://github.com/ProgVal/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I have written or forked.
 - [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
