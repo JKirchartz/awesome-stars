@@ -36,6 +36,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [Perl 6](#perl 6)
   - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Protocol Buffer](#protocol buffer)
@@ -48,6 +49,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard ml)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
@@ -68,6 +70,7 @@
 
 ## Assembly 
 
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 - [its](https://github.com/PDP-10/its) - Incompatible Timesharing System
 
 ## Batchfile 
@@ -243,6 +246,10 @@
 
 ## HTML 
 
+- [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS) - 
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+- [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
 - [jquery.easypin](https://github.com/atayahmet/jquery.easypin) - Pinning clickable messages/notes to images
 - [gifs](https://github.com/Attamusc/gifs) - Storage place for all the gifs.
@@ -334,6 +341,8 @@
 
 ## JavaScript 
 
+- [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
+- [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of an image drawing and encoding api, based on HTML Canvas
@@ -815,6 +824,7 @@
 
 ## Others 
 
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [WAI-ARIA-cheatsheet](https://github.com/filipelinhares/WAI-ARIA-cheatsheet) - :eyeglasses: Aria roles and attr cheatsheet. Best pactrices see =&gt;
 - [cheapbotsdonequick](https://github.com/derekahmedzai/cheapbotsdonequick) - Making twitter bots using Cheap Bots Done Quick
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
@@ -824,7 +834,6 @@
 - [awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [gridbugs](https://github.com/rachelandrew/gridbugs) - A curated list of Grid interop issues
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -978,6 +987,9 @@
 - [xkcd-Bucket](https://github.com/zigdon/xkcd-Bucket) - Bucket is the channel bot for #xkcd
 - [Hacksby](https://github.com/iafan/Hacksby) - Description and unofficial implementation of Furby's audio protocol
 - [dotfiles](https://github.com/jweslley/dotfiles) - Jonhnny Weslley's configuration shiznit that makes him productive.
+
+## Perl 6 
+
 - [App-MusicTools](https://github.com/thrig/App-MusicTools) - command line utilities for music composition and analysis
 
 ## PowerShell 
@@ -997,6 +1009,7 @@
 
 ## Python 
 
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [WeedBot](https://github.com/nekosune/WeedBot) - Weedbot fork of skybot
@@ -1319,6 +1332,10 @@
 
 - [getcomposer.org](https://github.com/composer/getcomposer.org) - getcomposer.org sources
 
+## Swift 
+
+- [vimr](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS
+
 ## TeX 
 
 - [fontawesome-latex](https://github.com/sway/fontawesome-latex) - Style file for the FontAwesome (Xe)LaTeX mapping
@@ -1336,6 +1353,7 @@
 
 ## Vim script 
 
+- [oni](https://github.com/extr0py/oni) - Oni: An IDE powered by Neovim
 - [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [vim-easygrep](https://github.com/dkprice/vim-easygrep) - Fast and Easy Find and Replace Across Multiple Files
