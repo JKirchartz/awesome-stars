@@ -19,7 +19,7 @@
   - [Shell](#shell)
   - [Assembly](#assembly)
   - [KiCad](#kicad)
-  - [Python](#python)
+  - [C#](#c#)
   - [Max](#max)
   - [Processing](#processing)
   - [Common Lisp](#common lisp)
@@ -47,7 +47,7 @@
   - [Rust](#rust)
   - [Ruby](#ruby)
   - [NSIS](#nsis)
-  - [C#](#c#)
+  - [Python](#python)
   - [Makefile](#makefile)
   - [Haskell](#haskell)
   - [ActionScript](#actionscript)
@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [Rantjs](https://github.com/svenanders/Rantjs) - Procedurally generate text with JavaScript
 - [spewer](https://github.com/dariusk/spewer) - A reverse part-of-speech tagger. Give it a list of tags and it spews out matching language.
 - [wordnik-bb](https://github.com/dariusk/wordnik-bb) - A node.js interface to the Wordnik API, which lets you get dictionary definitions, random words, pronunciation, and more!
 - [generator-brei-app](https://github.com/BarkleyREI/generator-brei-app) - Yeoman Generator for projects
@@ -670,203 +671,12 @@
 
 - [808](https://github.com/minisystem/808) - A Euroack drum machine
 
-## Python 
+## C# # 
 
-- [lossytextcompressor](https://github.com/anfractuosity/lossytextcompressor) - Lossy text compressor
-- [anagram-solver](https://github.com/patrickleweryharris/anagram-solver) - Solve anagrams from the command line
-- [dotfiles](https://github.com/oblitum/dotfiles) - my precious!
-- [moo](https://github.com/no-context/moo) - Optimised tokenizer/lexer generator! 🐄 Uses /y for performance. Moo.
-- [acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
-- [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-- [WeedBot](https://github.com/nekosune/WeedBot) - Weedbot fork of skybot
-- [skybot](https://github.com/rmmh/skybot) - Python IRC bot
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) - Python module to easily generate text using a pretrained character-based recurrent neural network.
-- [InferSent](https://github.com/facebookresearch/InferSent) - Sentence embeddings (InferSent) and training code for NLI.
-- [congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML, as well as committees, presidents, and vice presidents.
-- [fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
-- [skybot-tarot-plugin](https://github.com/nosfrbotu/skybot-tarot-plugin) - 
-- [polybot](https://github.com/russss/polybot) - A framework for making social media bots for multiple networks
-- [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python) - Unofficial instagram API, give you access to ALL instagram features (like, follow, upload photo and video and etc)! Write on python.
-- [wfc_python](https://github.com/ikarth/wfc_python) - An implementation of mxgmn/WaveFunctionCollapse in Python
-- [oisin](https://github.com/mewo2/oisin) - Oisín: Wave Function Collapse for poetry
-- [iambitize](https://github.com/emdaniels/iambitize) - Creates iambic pentameters out of text.
-- [rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data
-- [gutenberg](https://github.com/c-w/gutenberg) - A simple interface to the Project Gutenberg corpus.
-- [py-lyrics](https://github.com/tremby/py-lyrics) - Python script making use of LyricWiki (lyrics.wikia.com) to pull lyrics from the web from the commandline
-- [memegen](https://github.com/jacebrowning/memegen) - The open source meme generator.
-- [blackout](https://github.com/lizadaly/blackout) - NaNoGenMo 2016 entry #2
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [pytracery](https://github.com/aparrish/pytracery) - Python port of Kate Compton's Tracery text expansion library.
-- [sharingan](https://github.com/vipul-sharma20/sharingan) - Tool to extract news articles from newspaper and give the context about the news
-- [worldsgreatestbill](https://github.com/lizadaly/worldsgreatestbill) - A twitter bot that makes legislature even greater
-- [Markov](https://github.com/Supybot/Markov) - Random text generator based on channel history
-- [papagayo-ng](https://github.com/morevnaproject/papagayo-ng) - Papagayo is a lip-syncing program designed to help you line up phonemes (mouth shapes) with the actual recorded sound of actors speaking. Papagayo makes it easy to lip sync animated characters by making the process very simple - just type in the words being spoken (or copy/paste them from the animation's script), then drag the words on top of the sound's waveform until they line up with the proper sounds.
-- [Infobot](https://github.com/Supybot/Infobot) - Infobot plugin for Supybot
-- [TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
-- [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition) - A recurrent neural network designed to generate classical music.
-- [twitterBFTD](https://github.com/misterch0c/twitterBFTD) - Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration
-- [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow
-- [twitbot](https://github.com/csu/twitbot) - A framework for building modular Twitter bots.
-- [chir.py](https://github.com/acidvegas/chir.py) - A fully automated Twitter news bot, that builds followers, posts, and Bitcoins via PPC links.
-- [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
-- [Supybot-plugins](https://github.com/ProgVal/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I have written or forked.
-- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [showmemore](https://github.com/polm/showmemore) - SHOW ME MORE OF [-----]
-- [markov-tunes](https://github.com/robertecurtin/markov-tunes) - Automatically generates traditional Irish tunes.
-- [PatchWerk-Radio](https://github.com/rumblesan/PatchWerk-Radio) - An internet radio station that plays generative music from PD patches
-- [hsluv-python](https://github.com/hsluv/hsluv-python) - Python implementation of HSLuv (revision 4)
-- [Limnoria](https://github.com/ProgVal/Limnoria) - A modified version of Supybot (an IRC bot) with Python 3 and IRCv3 support including SASL, translations (fr/fi/it/hu/de), GPG authentication, and many other enhancements and bug fixes
-- [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-- [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
-- [TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot) - A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
-- [ircsay](https://github.com/ravenscroftj/ircsay) - A Simple python script that analyses IRC logs and produces very simple Markov-chain sentence generation
-- [savethecat](https://github.com/enkiv2/savethecat) - Film beat generation
-- [phpscanner](https://github.com/Te-k/phpscanner) - Php Scanner for malicious files
-- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
-- [misc](https://github.com/enkiv2/misc) - things that don't deserve their own repo
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
-- [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
-- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
-- [music21](https://github.com/cuthbertLab/music21) - music21 is a Toolkit for Computational Musicology
-- [preomr](https://github.com/svrist/preomr) - Tools for doing pre omr cleanup of sheetmusic images.
-- [GitHarvester](https://github.com/metac0rtex/GitHarvester) - 
-- [Toptal-API](https://github.com/wang502/Toptal-API) - :computer: Command line interface to read engineering blogs from http://toptal.com/blog
-- [NaNoGenLab](https://github.com/catseye/NaNoGenLab) - Experiments conducted for NaNoGenMo [Public domain]
-- [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
-- [everywordbot](https://github.com/aparrish/everywordbot) - a simple script for creating @everyword-like twitter services
-- [twitterbot](https://github.com/thricedotted/twitterbot) - A Python framework for creating interactive Twitter bots
-- [sprunge](https://github.com/rupa/sprunge) - command line pastebin for google appengine
-- [python-client](https://github.com/neovim/python-client) - Python client for Neovim
-- [careerjet-api-client-python](https://github.com/careerjet/careerjet-api-client-python) - Official Python interface to Careerjet's public search API
-- [indeed-python](https://github.com/indeedlabs/indeed-python) - Indeed API Python Client Library
-- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.
-- [scruffy](https://github.com/aivarsk/scruffy) - Makes SVG shapes look hand-drawn and creates UML diagrams using yUML (http://yuml.me) syntax
-- [aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
-- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
-- [SubScribe](https://github.com/rhnvrm/SubScribe) - :video_camera: Convert your video files to images transcribed with their subtitles
-- [dcgan_code](https://github.com/Newmu/dcgan_code) - Deep Convolutional Generative Adversarial Networks
-- [flickr_headers](https://github.com/vgan/flickr_headers) - Use random image from Flickr search as your Twitter header
-- [olipy](https://github.com/leonardr/olipy) - Python library for artistic text generation
-- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
-- [TypoGenerator](https://github.com/ncouture/TypoGenerator) - Typo generator XMLRPC service
-- [beat-sorter](https://github.com/Harrison-M/beat-sorter) - Everything should be a crescendo
-- [TheGIFingBot](https://github.com/jeremylow/TheGIFingBot) - Twitter bot for converting mp4s back into GIFs.
-- [skip-thoughts](https://github.com/ryankiros/skip-thoughts) - Sent2Vec encoder and training code from the paper "Skip-Thought Vectors"
-- [neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
-- [pngbot](https://github.com/vgan/pngbot) - an image bot that exploits png transparency quirks.
-- [anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
-- [bots](https://github.com/corcra/bots) - Twitter bots, IRC bots, bots that make other bots. The world of bots is limitless.
-- [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks.
-- [twitter-tools](https://github.com/hugovk/twitter-tools) - Command-line Python scripts to do things with Twitter.
-- [pycorpora](https://github.com/aparrish/pycorpora) - A simple Python interface for Darius Kazemi's Corpora Project.
-- [pixel-tools](https://github.com/hugovk/pixel-tools) - Pixel-mangling scripts for the command line.
-- [jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
-- [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
-- [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
-- [bat-country](https://github.com/jrosebr1/bat-country) - A lightweight, extendible, easy to use Python package for deep dreaming and image generation with Caffe and CNNs.
-- [python-google-spreadsheet](https://github.com/yoavaviram/python-google-spreadsheet) - A simple Python wrapper for the Google Spreadsheet API
-- [meow.py](https://github.com/hugovk/meow.py) - 50,000 Meows: Replace all words with meows, preserving punctuation. For NaNoGenMo 2014.
-- [mythologybot](https://github.com/BooDoo/mythologybot) - 
-- [Markov-Generator-For-Timecube](https://github.com/garside/Markov-Generator-For-Timecube) - Speaks in the same nonsense as the timecube quack
-- [syllpos](https://github.com/mewo2/syllpos) - Wordlists by part of speech and syllable count
-- [python-botutil](https://github.com/araile/python-botutil) - Small Python libraries for making Twitter bots.
-- [Supybot](https://github.com/Supybot/Supybot) - 
-- [mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
-- [deutsch_falsch](https://github.com/ojahnn/deutsch_falsch) - Twitterbot that generates orthographically plausible German words with semantically plausible English explanations.
-- [python-bayes-gae](https://github.com/skaurus/python-bayes-gae) - simple example of pure python bayes spamfilter for Google App Engine
-- [collection](https://github.com/tategallery/collection) - Tate Collection metadata
-- [image-dreamer](https://github.com/Dhar/image-dreamer) - "Dreams" images, such as shown in the Google Research blog post on "Inceptionism".
-- [data-science-toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) - Start doing data science in minutes
-- [ctags-javascript-coffeescript](https://github.com/winstonwolff/ctags-javascript-coffeescript) - exhuberant ctags options file plus tests
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [madman](https://github.com/capnrefsmmat/madman) - Random Mad Libs generator, using Python, NLTK, and Markov chains to replace words with weirder ones.
-- [autowikiabot-py](https://github.com/Timidger/autowikiabot-py) - Reddit bot that replies to comments with excerpt from linked wikia article or section.
-- [pywikibot-core](https://github.com/wikimedia/pywikibot-core) - A Python library that interfaces with the MediaWiki API. This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
-- [spectra](https://github.com/jsvine/spectra) - Easy color scales and color conversion for Python.
-- [patent-generator](https://github.com/antiboredom/patent-generator) - Transforms literary/philosophical texts into patent applications
-- [audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
-- [trollbox](https://github.com/jfoote/trollbox) - how u troll so good?
-- [theseeker](https://github.com/thricedotted/theseeker) - A """novel""" """generator""". NaNoGenMo 2014 submission
-- [nltk](https://github.com/nltk/nltk) - NLTK Source
-- [lovecraft_ebooks](https://github.com/jiko/lovecraft_ebooks) - Markov tweetbot based on H. P. Lovecraft's corpus
-- [curveship](https://github.com/nickmontfort/curveship) - Interactive fiction + interactive narrating.
-- [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
-- [facealign](https://github.com/roblourens/facealign) - FaceAlign is a tool that can align a set of images containing faces
-- [the-listserve-stats](https://github.com/roblourens/the-listserve-stats) - Stats for The Listserve
-- [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-- [sanitize](https://github.com/aaronsw/sanitize) - bringing sanity to world of messed-up data
-- [html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
-- [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server using animated GIFs, Python and Node.js
-- [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
-- [appscale](https://github.com/AppScale/appscale) - The Open Source Implementation of Google App Engine -- Take your apps everywhere.
-- [Naive-Bayes](https://github.com/aceveggie/Naive-Bayes) - A Naive Bayes Classifier in Python
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [jsonbot](https://github.com/melmothx/jsonbot) - The Bot For You !
-- [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
-- [twitter-bot](https://github.com/xiaoganghan/twitter-bot) - a twitter bot for programming.reddit
-- [pytumblr](https://github.com/tumblr/pytumblr) - A Python Tumblr API v2 Client
-- [tumbkit](https://github.com/sdb/tumbkit) - DISCONTINUED: toolkit for Tumblr theme development
-- [tumblr-python](https://github.com/dasevilla/tumblr-python) - A Python client for the Tumblr API v2
-- [Image-to-ANSI-converter](https://github.com/endreszabo/Image-to-ANSI-converter) - Converts any gd importable image to ANSI control codes for terminal representation
-- [Rubix3DSolver](https://github.com/kxd8163/Rubix3DSolver) - Python 3D model for RubixCube + Solver
-- [Rubix-Cube](https://github.com/heyese/Rubix-Cube) - Brute force solving of rubix cube problems
-- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [vim-pandemic](https://github.com/jwcxz/vim-pandemic) - Manage remote pathogen bundles from multiple source types
-- [ipsumimage](https://github.com/mgrdcm/ipsumimage) - Placeholder image generator hosted on Google App Engine.
-- [panoptibot-gae](https://github.com/conorh/panoptibot-gae) - XMPP chat bot for Google App Engine
-- [xyzzy](https://github.com/kennethreitz-experiments/xyzzy) - Text adventure game.
-- [pywikia](https://github.com/dantman/pywikia) - A fork of the Pywikipedia bot framework modified for easier use on Wikia
-- [gmailCommandLine](https://github.com/kirotawa/gmailCommandLine) - A simple application to send gmail in bash command line written in Python.
-- [glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate CSS sprites
-- [untinyurl](https://github.com/JulienPalard/untinyurl) - Un-shorten urls found in given text
-- [gist-it](https://github.com/robertkrimen/gist-it) - An AppEngine app to embed files from a github repository like a gist
-- [uscode](https://github.com/divegeek/uscode) - The United States Code
-- [blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
-- [SimpleTwitterBot](https://github.com/yasulab/SimpleTwitterBot) - Gather tweets including 'search_term' on Twitter, and re-tweet it. This bot runs on Google App Engine. The following twitter account shows a sample bot run on Google App Engine.
-- [dumpmon](https://github.com/jordan-wright/dumpmon) - Information Dump Monitor
-- [openrecipes](https://github.com/fictivekin/openrecipes) - An open database of recipe bookmarks
-- [twitter-url-regexen](https://github.com/mccutchen/twitter-url-regexen) - The regular expression(s) Twitter uses to match URLs.
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
-- [groompbot](https://github.com/AndrewNeo/groompbot) - OUT OF DATE. Does not support the YouTube v3 API.
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [silly-server](https://github.com/bak1an/silly-server) - One more silly server for mocking HTTP services.
-- [upload2fp](https://github.com/chrisfosterelli/upload2fp) - Upload files to a filepicker.io user's S3 Bucket
-- [anim_encoder](https://github.com/sublimehq/anim_encoder) - 
-- [r-webdev](https://github.com/r-webdev/r-webdev) - /r/webdev wiki
-- [glitchr](https://github.com/rumblesan/glitchr) - A constant, regular injection of aesthetic error
-- [glitcher](https://github.com/RodrigoEspinosa/glitcher) - An automatic glitcher effect for uncompressed images. Extremely simple python code.
-- [hashsuggest](https://github.com/mrjoelkemp/hashsuggest) - Twitter Hashtag Suggestion System
-- [nonsense](https://github.com/Ceasar/nonsense) - Simple Markov chain babbler for Python.
-- [glitchpy](https://github.com/rumblesan/glitchpy) - A small python library that can be used for glitching jpeg images
-- [sh](https://github.com/amoffat/sh) - Python process launching
-- [99glitches](https://github.com/feigner/99glitches) - 
-- [Pyblr](https://github.com/ToQoz/Pyblr) - Pyblr is a simple Tumblr API v2 library written in python
-- [hashtagTumblr](https://github.com/angad/hashtagTumblr) - GAE app for quickly pushing posts to Tumblr. Using it for protolol.com
-- [wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
-- [dropship](https://github.com/driverdan/dropship) - Instantly transfer files between Dropbox accounts using only their hashes.
-- [django-pjax](https://github.com/jacobian-archive/django-pjax) - MOVED - see https://github.com/eventials/django-pjax
-- [seuss](https://github.com/capnrefsmmat/seuss) - Rhyming robot. Uses Markov chains to randomly generate rhyming poetry according to a specified rhymescheme. Can use multiple "personalities" (source texts) to generate humorous and surprising poems.
-- [django-multimedia](https://github.com/jbittel/django-multimedia) - Encode and upload multimedia from the Django admin interface. Supports any video profile you can write a command line statement to accomplish.
-- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
-- [paulstretch_python](https://github.com/paulnasca/paulstretch_python) - Paulstretch python version
-- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
-- [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
-- [Craigslist-Autorespond](https://github.com/jfeldstein/Craigslist-Autorespond) - Learning Python. Automatically emails an inquiry to craigslist listings that match my criteria.
-- [libepub](https://github.com/JKirchartz/libepub) - A Python Library to work with epub format
-- [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-- [reddit-cli](https://github.com/Hebo/reddit-cli) - Command line interface for browsing reddit.com
-- [libepub](https://github.com/jharjono/libepub) - A Python Library to work with epub format
-- [twitter-text-py](https://github.com/dryan/twitter-text-py) - a python port of https://github.com/twitter/twitter-text-rb  also available via `pip install twitter_text`
-- [cobe](https://github.com/pteichman/cobe) - A Markov chain based text generation library and MegaHAL style chatbot
-- [gedit-focus-autosave](https://github.com/kassoulet/gedit-focus-autosave) - A small plugin for gedit to autosave when the window goes out of focus. Use master branch for Gedit3, gedit2 branch for Gedit2.
-- [pystache](https://github.com/defunkt/pystache) - Mustache in Python
-- [qtfaststart](https://github.com/danielgtaylor/qtfaststart) - Quicktime atom positioning in Python for fast streaming
-- [django-compress](https://github.com/pelme/django-compress) - Git repository for django-compress
+- [rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+- [acat](https://github.com/01org/acat) - Assistive Context-Aware Toolkit (ACAT)
+- [RagePixel](https://github.com/JuhaKiili/RagePixel) - 2D Pixelart Toolkit for Unity3D
 
 ## Max 
 
@@ -1360,11 +1170,203 @@
 
 - [gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 
-## C# # 
+## Python 
 
-- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
-- [acat](https://github.com/01org/acat) - Assistive Context-Aware Toolkit (ACAT)
-- [RagePixel](https://github.com/JuhaKiili/RagePixel) - 2D Pixelart Toolkit for Unity3D
+- [lossytextcompressor](https://github.com/anfractuosity/lossytextcompressor) - Lossy text compressor
+- [anagram-solver](https://github.com/patrickleweryharris/anagram-solver) - Solve anagrams from the command line
+- [dotfiles](https://github.com/oblitum/dotfiles) - my precious!
+- [moo](https://github.com/no-context/moo) - Optimised tokenizer/lexer generator! 🐄 Uses /y for performance. Moo.
+- [acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
+- [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [WeedBot](https://github.com/nekosune/WeedBot) - Weedbot fork of skybot
+- [skybot](https://github.com/rmmh/skybot) - Python IRC bot
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) - Python module to easily generate text using a pretrained character-based recurrent neural network.
+- [InferSent](https://github.com/facebookresearch/InferSent) - Sentence embeddings (InferSent) and training code for NLI.
+- [congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML, as well as committees, presidents, and vice presidents.
+- [fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
+- [skybot-tarot-plugin](https://github.com/nosfrbotu/skybot-tarot-plugin) - 
+- [polybot](https://github.com/russss/polybot) - A framework for making social media bots for multiple networks
+- [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python) - Unofficial instagram API, give you access to ALL instagram features (like, follow, upload photo and video and etc)! Write on python.
+- [wfc_python](https://github.com/ikarth/wfc_python) - An implementation of mxgmn/WaveFunctionCollapse in Python
+- [oisin](https://github.com/mewo2/oisin) - Oisín: Wave Function Collapse for poetry
+- [iambitize](https://github.com/emdaniels/iambitize) - Creates iambic pentameters out of text.
+- [rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data
+- [gutenberg](https://github.com/c-w/gutenberg) - A simple interface to the Project Gutenberg corpus.
+- [py-lyrics](https://github.com/tremby/py-lyrics) - Python script making use of LyricWiki (lyrics.wikia.com) to pull lyrics from the web from the commandline
+- [memegen](https://github.com/jacebrowning/memegen) - The open source meme generator.
+- [blackout](https://github.com/lizadaly/blackout) - NaNoGenMo 2016 entry #2
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [pytracery](https://github.com/aparrish/pytracery) - Python port of Kate Compton's Tracery text expansion library.
+- [sharingan](https://github.com/vipul-sharma20/sharingan) - Tool to extract news articles from newspaper and give the context about the news
+- [worldsgreatestbill](https://github.com/lizadaly/worldsgreatestbill) - A twitter bot that makes legislature even greater
+- [Markov](https://github.com/Supybot/Markov) - Random text generator based on channel history
+- [papagayo-ng](https://github.com/morevnaproject/papagayo-ng) - Papagayo is a lip-syncing program designed to help you line up phonemes (mouth shapes) with the actual recorded sound of actors speaking. Papagayo makes it easy to lip sync animated characters by making the process very simple - just type in the words being spoken (or copy/paste them from the animation's script), then drag the words on top of the sound's waveform until they line up with the proper sounds.
+- [Infobot](https://github.com/Supybot/Infobot) - Infobot plugin for Supybot
+- [TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
+- [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition) - A recurrent neural network designed to generate classical music.
+- [twitterBFTD](https://github.com/misterch0c/twitterBFTD) - Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration
+- [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow
+- [twitbot](https://github.com/csu/twitbot) - A framework for building modular Twitter bots.
+- [chir.py](https://github.com/acidvegas/chir.py) - A fully automated Twitter news bot, that builds followers, posts, and Bitcoins via PPC links.
+- [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
+- [Supybot-plugins](https://github.com/ProgVal/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I have written or forked.
+- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [showmemore](https://github.com/polm/showmemore) - SHOW ME MORE OF [-----]
+- [markov-tunes](https://github.com/robertecurtin/markov-tunes) - Automatically generates traditional Irish tunes.
+- [PatchWerk-Radio](https://github.com/rumblesan/PatchWerk-Radio) - An internet radio station that plays generative music from PD patches
+- [hsluv-python](https://github.com/hsluv/hsluv-python) - Python implementation of HSLuv (revision 4)
+- [Limnoria](https://github.com/ProgVal/Limnoria) - A modified version of Supybot (an IRC bot) with Python 3 and IRCv3 support including SASL, translations (fr/fi/it/hu/de), GPG authentication, and many other enhancements and bug fixes
+- [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）
+- [TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot) - A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
+- [ircsay](https://github.com/ravenscroftj/ircsay) - A Simple python script that analyses IRC logs and produces very simple Markov-chain sentence generation
+- [savethecat](https://github.com/enkiv2/savethecat) - Film beat generation
+- [phpscanner](https://github.com/Te-k/phpscanner) - Php Scanner for malicious files
+- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack
+- [misc](https://github.com/enkiv2/misc) - things that don't deserve their own repo
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
+- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
+- [music21](https://github.com/cuthbertLab/music21) - music21 is a Toolkit for Computational Musicology
+- [preomr](https://github.com/svrist/preomr) - Tools for doing pre omr cleanup of sheetmusic images.
+- [GitHarvester](https://github.com/metac0rtex/GitHarvester) - 
+- [Toptal-API](https://github.com/wang502/Toptal-API) - :computer: Command line interface to read engineering blogs from http://toptal.com/blog
+- [NaNoGenLab](https://github.com/catseye/NaNoGenLab) - Experiments conducted for NaNoGenMo [Public domain]
+- [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
+- [everywordbot](https://github.com/aparrish/everywordbot) - a simple script for creating @everyword-like twitter services
+- [twitterbot](https://github.com/thricedotted/twitterbot) - A Python framework for creating interactive Twitter bots
+- [sprunge](https://github.com/rupa/sprunge) - command line pastebin for google appengine
+- [python-client](https://github.com/neovim/python-client) - Python client for Neovim
+- [careerjet-api-client-python](https://github.com/careerjet/careerjet-api-client-python) - Official Python interface to Careerjet's public search API
+- [indeed-python](https://github.com/indeedlabs/indeed-python) - Indeed API Python Client Library
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.
+- [scruffy](https://github.com/aivarsk/scruffy) - Makes SVG shapes look hand-drawn and creates UML diagrams using yUML (http://yuml.me) syntax
+- [aerolito](https://github.com/renatopp/aerolito) - An AIML alternative, YAML based. Aerolito works like a simulation of natural language processing.
+- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [SubScribe](https://github.com/rhnvrm/SubScribe) - :video_camera: Convert your video files to images transcribed with their subtitles
+- [dcgan_code](https://github.com/Newmu/dcgan_code) - Deep Convolutional Generative Adversarial Networks
+- [flickr_headers](https://github.com/vgan/flickr_headers) - Use random image from Flickr search as your Twitter header
+- [olipy](https://github.com/leonardr/olipy) - Python library for artistic text generation
+- [keras](https://github.com/fchollet/keras) - Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
+- [TypoGenerator](https://github.com/ncouture/TypoGenerator) - Typo generator XMLRPC service
+- [beat-sorter](https://github.com/Harrison-M/beat-sorter) - Everything should be a crescendo
+- [TheGIFingBot](https://github.com/jeremylow/TheGIFingBot) - Twitter bot for converting mp4s back into GIFs.
+- [skip-thoughts](https://github.com/ryankiros/skip-thoughts) - Sent2Vec encoder and training code from the paper "Skip-Thought Vectors"
+- [neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
+- [pngbot](https://github.com/vgan/pngbot) - an image bot that exploits png transparency quirks.
+- [anagramatron](https://github.com/cmyr/anagramatron) - twitter anagram hunter
+- [bots](https://github.com/corcra/bots) - Twitter bots, IRC bots, bots that make other bots. The world of bots is limitless.
+- [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- [brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks.
+- [twitter-tools](https://github.com/hugovk/twitter-tools) - Command-line Python scripts to do things with Twitter.
+- [pycorpora](https://github.com/aparrish/pycorpora) - A simple Python interface for Darius Kazemi's Corpora Project.
+- [pixel-tools](https://github.com/hugovk/pixel-tools) - Pixel-mangling scripts for the command line.
+- [jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
+- [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+- [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [bat-country](https://github.com/jrosebr1/bat-country) - A lightweight, extendible, easy to use Python package for deep dreaming and image generation with Caffe and CNNs.
+- [python-google-spreadsheet](https://github.com/yoavaviram/python-google-spreadsheet) - A simple Python wrapper for the Google Spreadsheet API
+- [meow.py](https://github.com/hugovk/meow.py) - 50,000 Meows: Replace all words with meows, preserving punctuation. For NaNoGenMo 2014.
+- [mythologybot](https://github.com/BooDoo/mythologybot) - 
+- [Markov-Generator-For-Timecube](https://github.com/garside/Markov-Generator-For-Timecube) - Speaks in the same nonsense as the timecube quack
+- [syllpos](https://github.com/mewo2/syllpos) - Wordlists by part of speech and syllable count
+- [python-botutil](https://github.com/araile/python-botutil) - Small Python libraries for making Twitter bots.
+- [Supybot](https://github.com/Supybot/Supybot) - 
+- [mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [deutsch_falsch](https://github.com/ojahnn/deutsch_falsch) - Twitterbot that generates orthographically plausible German words with semantically plausible English explanations.
+- [python-bayes-gae](https://github.com/skaurus/python-bayes-gae) - simple example of pure python bayes spamfilter for Google App Engine
+- [collection](https://github.com/tategallery/collection) - Tate Collection metadata
+- [image-dreamer](https://github.com/Dhar/image-dreamer) - "Dreams" images, such as shown in the Google Research blog post on "Inceptionism".
+- [data-science-toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) - Start doing data science in minutes
+- [ctags-javascript-coffeescript](https://github.com/winstonwolff/ctags-javascript-coffeescript) - exhuberant ctags options file plus tests
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [madman](https://github.com/capnrefsmmat/madman) - Random Mad Libs generator, using Python, NLTK, and Markov chains to replace words with weirder ones.
+- [autowikiabot-py](https://github.com/Timidger/autowikiabot-py) - Reddit bot that replies to comments with excerpt from linked wikia article or section.
+- [pywikibot-core](https://github.com/wikimedia/pywikibot-core) - A Python library that interfaces with the MediaWiki API. This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [spectra](https://github.com/jsvine/spectra) - Easy color scales and color conversion for Python.
+- [patent-generator](https://github.com/antiboredom/patent-generator) - Transforms literary/philosophical texts into patent applications
+- [audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
+- [trollbox](https://github.com/jfoote/trollbox) - how u troll so good?
+- [theseeker](https://github.com/thricedotted/theseeker) - A """novel""" """generator""". NaNoGenMo 2014 submission
+- [nltk](https://github.com/nltk/nltk) - NLTK Source
+- [lovecraft_ebooks](https://github.com/jiko/lovecraft_ebooks) - Markov tweetbot based on H. P. Lovecraft's corpus
+- [curveship](https://github.com/nickmontfort/curveship) - Interactive fiction + interactive narrating.
+- [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
+- [facealign](https://github.com/roblourens/facealign) - FaceAlign is a tool that can align a set of images containing faces
+- [the-listserve-stats](https://github.com/roblourens/the-listserve-stats) - Stats for The Listserve
+- [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
+- [sanitize](https://github.com/aaronsw/sanitize) - bringing sanity to world of messed-up data
+- [html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
+- [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server using animated GIFs, Python and Node.js
+- [BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
+- [appscale](https://github.com/AppScale/appscale) - The Open Source Implementation of Google App Engine -- Take your apps everywhere.
+- [Naive-Bayes](https://github.com/aceveggie/Naive-Bayes) - A Naive Bayes Classifier in Python
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [jsonbot](https://github.com/melmothx/jsonbot) - The Bot For You !
+- [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
+- [twitter-bot](https://github.com/xiaoganghan/twitter-bot) - a twitter bot for programming.reddit
+- [pytumblr](https://github.com/tumblr/pytumblr) - A Python Tumblr API v2 Client
+- [tumbkit](https://github.com/sdb/tumbkit) - DISCONTINUED: toolkit for Tumblr theme development
+- [tumblr-python](https://github.com/dasevilla/tumblr-python) - A Python client for the Tumblr API v2
+- [Image-to-ANSI-converter](https://github.com/endreszabo/Image-to-ANSI-converter) - Converts any gd importable image to ANSI control codes for terminal representation
+- [Rubix3DSolver](https://github.com/kxd8163/Rubix3DSolver) - Python 3D model for RubixCube + Solver
+- [Rubix-Cube](https://github.com/heyese/Rubix-Cube) - Brute force solving of rubix cube problems
+- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [vim-pandemic](https://github.com/jwcxz/vim-pandemic) - Manage remote pathogen bundles from multiple source types
+- [ipsumimage](https://github.com/mgrdcm/ipsumimage) - Placeholder image generator hosted on Google App Engine.
+- [panoptibot-gae](https://github.com/conorh/panoptibot-gae) - XMPP chat bot for Google App Engine
+- [xyzzy](https://github.com/kennethreitz-experiments/xyzzy) - Text adventure game.
+- [pywikia](https://github.com/dantman/pywikia) - A fork of the Pywikipedia bot framework modified for easier use on Wikia
+- [gmailCommandLine](https://github.com/kirotawa/gmailCommandLine) - A simple application to send gmail in bash command line written in Python.
+- [glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate CSS sprites
+- [untinyurl](https://github.com/JulienPalard/untinyurl) - Un-shorten urls found in given text
+- [gist-it](https://github.com/robertkrimen/gist-it) - An AppEngine app to embed files from a github repository like a gist
+- [uscode](https://github.com/divegeek/uscode) - The United States Code
+- [blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
+- [SimpleTwitterBot](https://github.com/yasulab/SimpleTwitterBot) - Gather tweets including 'search_term' on Twitter, and re-tweet it. This bot runs on Google App Engine. The following twitter account shows a sample bot run on Google App Engine.
+- [dumpmon](https://github.com/jordan-wright/dumpmon) - Information Dump Monitor
+- [openrecipes](https://github.com/fictivekin/openrecipes) - An open database of recipe bookmarks
+- [twitter-url-regexen](https://github.com/mccutchen/twitter-url-regexen) - The regular expression(s) Twitter uses to match URLs.
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
+- [groompbot](https://github.com/AndrewNeo/groompbot) - OUT OF DATE. Does not support the YouTube v3 API.
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [silly-server](https://github.com/bak1an/silly-server) - One more silly server for mocking HTTP services.
+- [upload2fp](https://github.com/chrisfosterelli/upload2fp) - Upload files to a filepicker.io user's S3 Bucket
+- [anim_encoder](https://github.com/sublimehq/anim_encoder) - 
+- [r-webdev](https://github.com/r-webdev/r-webdev) - /r/webdev wiki
+- [glitchr](https://github.com/rumblesan/glitchr) - A constant, regular injection of aesthetic error
+- [glitcher](https://github.com/RodrigoEspinosa/glitcher) - An automatic glitcher effect for uncompressed images. Extremely simple python code.
+- [hashsuggest](https://github.com/mrjoelkemp/hashsuggest) - Twitter Hashtag Suggestion System
+- [nonsense](https://github.com/Ceasar/nonsense) - Simple Markov chain babbler for Python.
+- [glitchpy](https://github.com/rumblesan/glitchpy) - A small python library that can be used for glitching jpeg images
+- [sh](https://github.com/amoffat/sh) - Python process launching
+- [99glitches](https://github.com/feigner/99glitches) - 
+- [Pyblr](https://github.com/ToQoz/Pyblr) - Pyblr is a simple Tumblr API v2 library written in python
+- [hashtagTumblr](https://github.com/angad/hashtagTumblr) - GAE app for quickly pushing posts to Tumblr. Using it for protolol.com
+- [wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
+- [dropship](https://github.com/driverdan/dropship) - Instantly transfer files between Dropbox accounts using only their hashes.
+- [django-pjax](https://github.com/jacobian-archive/django-pjax) - MOVED - see https://github.com/eventials/django-pjax
+- [seuss](https://github.com/capnrefsmmat/seuss) - Rhyming robot. Uses Markov chains to randomly generate rhyming poetry according to a specified rhymescheme. Can use multiple "personalities" (source texts) to generate humorous and surprising poems.
+- [django-multimedia](https://github.com/jbittel/django-multimedia) - Encode and upload multimedia from the Django admin interface. Supports any video profile you can write a command line statement to accomplish.
+- [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
+- [paulstretch_python](https://github.com/paulnasca/paulstretch_python) - Paulstretch python version
+- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
+- [Craigslist-Autorespond](https://github.com/jfeldstein/Craigslist-Autorespond) - Learning Python. Automatically emails an inquiry to craigslist listings that match my criteria.
+- [libepub](https://github.com/JKirchartz/libepub) - A Python Library to work with epub format
+- [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
+- [reddit-cli](https://github.com/Hebo/reddit-cli) - Command line interface for browsing reddit.com
+- [libepub](https://github.com/jharjono/libepub) - A Python Library to work with epub format
+- [twitter-text-py](https://github.com/dryan/twitter-text-py) - a python port of https://github.com/twitter/twitter-text-rb  also available via `pip install twitter_text`
+- [cobe](https://github.com/pteichman/cobe) - A Markov chain based text generation library and MegaHAL style chatbot
+- [gedit-focus-autosave](https://github.com/kassoulet/gedit-focus-autosave) - A small plugin for gedit to autosave when the window goes out of focus. Use master branch for Gedit3, gedit2 branch for Gedit2.
+- [pystache](https://github.com/defunkt/pystache) - Mustache in Python
+- [qtfaststart](https://github.com/danielgtaylor/qtfaststart) - Quicktime atom positioning in Python for fast streaming
+- [django-compress](https://github.com/pelme/django-compress) - Git repository for django-compress
 
 ## Makefile 
 
