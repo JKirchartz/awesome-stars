@@ -27,7 +27,7 @@
   - [HTML](#html)
   - [CSS](#css)
   - [Others](#others)
-  - [Ruby](#ruby)
+  - [Swift](#swift)
   - [Protocol Buffer](#protocol buffer)
   - [QML](#qml)
   - [C](#c)
@@ -45,7 +45,7 @@
   - [Clojure](#clojure)
   - [Ren'Py](#ren'py)
   - [Rust](#rust)
-  - [Swift](#swift)
+  - [Ruby](#ruby)
   - [NSIS](#nsis)
   - [C#](#c#)
   - [Makefile](#makefile)
@@ -109,6 +109,20 @@
 
 ## JavaScript 
 
+- [spewer](https://github.com/dariusk/spewer) - A reverse part-of-speech tagger. Give it a list of tags and it spews out matching language.
+- [wordnik-bb](https://github.com/dariusk/wordnik-bb) - A node.js interface to the Wordnik API, which lets you get dictionary definitions, random words, pronunciation, and more!
+- [generator-brei-app](https://github.com/BarkleyREI/generator-brei-app) - Yeoman Generator for projects
+- [cheapbotsdonequick](https://github.com/hugovk/cheapbotsdonequick) - Source code for bots hosted on Cheap Bots, Done Quick!
+- [write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [random-quote](https://github.com/petermbenjamin/random-quote) - A NodeJS library for generating random quotes
+- [chunk-text](https://github.com/algolia/chunk-text) - 🔪 chunk/split a string by length without cutting/truncating words.
+- [pos-js](https://github.com/neopunisher/pos-js) - fasttag part of speech tagger javascript implementation
+- [pos-js](https://github.com/dariusk/pos-js) - fasttag part of speech tagger javascript implementation
+- [Tori](https://github.com/joshwcomeau/Tori) - Twitter, but for haikus.
+- [salient](https://github.com/nyxtom/salient) - Machine Learning, Natural Language Processing and Sentiment Analysis Toolkit for Node.js
+- [nearley](https://github.com/Hardmath123/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
+- [tumult](https://github.com/ScottyFillups/tumult) - 
+- [nodejs-dev-vm](https://github.com/geerlingguy/nodejs-dev-vm) - Simple Node.js Development VM using Vagrant + VirtualBox + Ansible
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
@@ -241,7 +255,6 @@
 - [selfie-apocalypse](https://github.com/ojack/selfie-apocalypse) - 
 - [ember-semantic-ui](https://github.com/wecatch/ember-semantic-ui) - A variety of semantic-ui components for ember app
 - [unicate](https://github.com/afiler/unicate) - fun with "plain" text
-- [wordnik-bb](https://github.com/dariusk/wordnik-bb) - A node.js interface to the Wordnik API, which lets you get dictionary definitions, random words, pronunciation, and more!
 - [Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
 - [GirlTalkInABox](https://github.com/echonest/GirlTalkInABox) - Source for Girl Talk In A Box
 - [botomatic](https://github.com/BooDoo/botomatic) - A library for crafting node-based twitter bots by setting various configuration values in a centralized file.
@@ -555,6 +568,7 @@
 
 ## VimL 
 
+- [vim-readability](https://github.com/pondrejk/vim-readability) - A Vim plug-in that calculates the Flesch-Kincaid readability index per line.
 - [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [colorswatch.vim](https://github.com/cocopon/colorswatch.vim) - Generate a beautiful color swatch for the current buffer
 - [vim-litecorrect](https://github.com/reedes/vim-litecorrect) - Lightweight auto-correction for Vim
@@ -658,6 +672,11 @@
 
 ## Python 
 
+- [lossytextcompressor](https://github.com/anfractuosity/lossytextcompressor) - Lossy text compressor
+- [anagram-solver](https://github.com/patrickleweryharris/anagram-solver) - Solve anagrams from the command line
+- [dotfiles](https://github.com/oblitum/dotfiles) - my precious!
+- [moo](https://github.com/no-context/moo) - Optimised tokenizer/lexer generator! 🐄 Uses /y for performance. Moo.
+- [acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python Web Services
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -694,7 +713,6 @@
 - [tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [Supybot-plugins](https://github.com/ProgVal/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I have written or forked.
 - [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [showmemore](https://github.com/polm/showmemore) - SHOW ME MORE OF [-----]
 - [markov-tunes](https://github.com/robertecurtin/markov-tunes) - Automatically generates traditional Irish tunes.
 - [PatchWerk-Radio](https://github.com/rumblesan/PatchWerk-Radio) - An internet radio station that plays generative music from PD patches
@@ -956,6 +974,7 @@
 
 ## CSS 
 
+- [WAI-ARIA-Cheatsheet](https://github.com/DrummerHead/WAI-ARIA-Cheatsheet) - WAI-ARIA Landmark Roles Cheatsheet & simple introduction
 - [wio](https://github.com/irchelp/wio) - This is the development/preview site for www.irchelp.org
 - [assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at creating code projects. Gulp- and grunt-friendly.  Used by thousands of projects for rapid prototyping, creating themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more!
 - [shoelace-css](https://github.com/claviska/shoelace-css) - A back to the basics CSS starter kit.
@@ -1003,8 +1022,8 @@
 
 ## Others 
 
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [WAI-ARIA-cheatsheet](https://github.com/filipelinhares/WAI-ARIA-cheatsheet) - :eyeglasses: Aria roles and attr cheatsheet. Best pactrices see =&gt;
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [cheapbotsdonequick](https://github.com/derekahmedzai/cheapbotsdonequick) - Making twitter bots using Cheap Bots Done Quick
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 - [tracery-grammars](https://github.com/MichaelPaulukonis/tracery-grammars) - sources for some cheap bots (done quickly)
@@ -1081,7 +1100,7 @@
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
 - [socialmediaicons](https://github.com/paulrobertlloyd/socialmediaicons) - A set of standardised icons for popular social networking services and tools.
 - [github-reflog](https://github.com/kennethreitz/github-reflog) - The GitHub Reflog™ — the weekly chronicle of awesome repos
-- [cdnjs](https://github.com/cdnjs/cdnjs) - 🌍  The best FOSS web front-end resource CDN
+- [cdnjs](https://github.com/cdnjs/cdnjs) - Open Source Web front-end resource CDN for free managed by @PeterDaveHello
 - [server-shield](https://github.com/bluedragonz/server-shield) - Server Shield is a lightweight method of protecting and hardening your Linux server. It is easy to install, hard to mess up, and makes your server instantly and effortlessly resistant to many basic and advanced attacks.
 - [NPL](https://github.com/sprngr/NPL) - Necessary Public License v1
 - [idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
@@ -1098,67 +1117,9 @@
 - [ttf-sorts-mill-goudy](https://github.com/hober/ttf-sorts-mill-goudy) - Debian/Ubuntu package for Barry Schwartz' revival of Goudy Oldstyle & Italic
 - [phonegap](https://github.com/phonegap/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
 
-## Ruby 
+## Swift 
 
-- [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS
-- [vim-node](https://github.com/moll/vim-node) - Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
-- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
-- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [forgiva](https://github.com/Sceptive/forgiva) - The new-age password manager.
-- [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
-- [twittbot](https://github.com/nilsding/twittbot) - An advanced Twitter bot.
-- [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
-- [homebrew-fonts](https://github.com/caskroom/homebrew-fonts) - Casks of fonts
-- [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
-- [soundcloud2000](https://github.com/grobie/soundcloud2000) - A terminal client for https://soundcloud.com
-- [jekyll-feed](https://github.com/jekyll/jekyll-feed) - :memo: A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
-- [capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
-- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [compass-primary-plugin](https://github.com/ravinggenius/compass-primary-plugin) - Compass plugin gem to mixin PrimaryCSS-inspired layouts
-- [bedrock-capistrano](https://github.com/roots/bedrock-capistrano) - Capistrano configs/integration for Bedrock
-- [Kaffeine](https://github.com/romainbutteaud/Kaffeine) - Keeping free Heroku apps awake.
-- [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
-- [pxlsrt](https://github.com/czycha/pxlsrt) - Pixel sorter written in Ruby
-- [poetrydb](https://github.com/thundercomb/poetrydb) - The Internet's first Poetry API
-- [everycolor](https://github.com/vogon/everycolor) - colors, all of 'em
-- [ebooks_example](https://github.com/BooDoo/ebooks_example) - Heroku-ready turn-key _ebooks implementation
-- [vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool
-- [RosettaCodeExplorer](https://github.com/aocole/RosettaCodeExplorer) - 
-- [git-wayback-machine](https://github.com/MadRabbit/git-wayback-machine) - A simple script to quickly navigate a project's state through it's GIT history
-- [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
-- [ClickBaitFilter](https://github.com/dbreunig/ClickBaitFilter) - Regex patterns to spot bad headlines.
-- [NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
-- [burn](https://github.com/remore/burn) - A Toolkit To Create 8-bit Flavored Application
-- [wp-deploy](https://github.com/Mixd/wp-deploy) - Capistrano powered WordPress deployment.
-- [walker_method](https://github.com/cantino/walker_method) - A Ruby implementation of Walker's Alias Method for quickly sampling from an array with a given probability distribution
-- [vagrant-slitaz](https://github.com/selectany/vagrant-slitaz) - Slitaz Linux (base-cooking) based vagrant box
-- [VagrantDevEnvironment](https://github.com/meshell/VagrantDevEnvironment) - Vagrant based Linux development environment
-- [codemarks](https://github.com/gmassanek/codemarks) - Bookmarks for Social Coders!
-- [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
-- [ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
-- [beats](https://github.com/jstrait/beats) - A command-line drum machine, written in Ruby
-- [memegen](https://github.com/cmdrkeene/memegen) - Two-caption meme generator CLI
-- [meme](https://github.com/drbrain/meme) - Generate memes from http://memegenerator.net
-- [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
-- [automatic_insurrection](https://github.com/johm/automatic_insurrection) - combinatorics for social war
-- [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for http://whatthecommit.com
-- [Windowpane](https://github.com/daeken/Windowpane) - WebGL demo generator
-- [rawthought](https://github.com/joshleitzel/rawthought) - Aaron Swartz's blog posts in Markdown, PDF, ePub, and Mobi
-- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [gboom](https://github.com/stephenchen13/gboom) - 
-- [text-entropy-api](https://github.com/lsb/text-entropy-api) - Web service (via Sinatra) to pull stats for a list of words from the text-entropy statistical models
-- [jekyll-seo-script](https://github.com/bhardin/jekyll-seo-script) - A script to help with seo on jekyll blog posts.
-- [nopassword](https://github.com/alsmola/nopassword) - An authentication and session management framework that eliminates the need for passwords.
-- [typeset.css](https://github.com/joshuarudd/typeset.css) - A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
-- [kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
-- [teamocil](https://github.com/remiprev/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
-- [zalgo](https://github.com/alexyoung/zalgo) - Ḫ̷̲̫̰̯̭̀̂̑̈ͅĚ̥̖̩̘̱͔͈͈ͬ̚ ̦̦͖̲̀ͦ͂C̜͓̲̹͐̔ͭ̏Oͭ͛͂̋ͭͬͬ͆͏̺͓̰͚͠ͅM̢͉̼̖͍̊̕Ḛ̭̭͗̉̀̆ͬ̐ͪ̒S͉̪͂͌̄
-- [glitcher](https://github.com/rjungemann/glitcher) - "Glitch up" a JPEG, and make a movie sequence for it
-- [homoiconic](https://github.com/raganwald-deprecated/homoiconic) - An experiment in publishing code and words about code on a small scale.
-- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
-- [liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
+- [vimr](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS
 
 ## Protocol Buffer 
 
@@ -1170,6 +1131,7 @@
 
 ## C 
 
+- [Befaco](https://github.com/VCVRack/Befaco) - 
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
 - [mGB](https://github.com/trash80/mGB) - mGB - Nintendo Gameboy MIDI control for Arduinoboy
 - [interrobang](https://github.com/TrilbyWhite/interrobang) - A tiny launcher menu packing a big bang (syntax)
@@ -1200,6 +1162,9 @@
 
 ## C++ 
 
+- [ESeries](https://github.com/VCVRack/ESeries) - 
+- [AudibleInstruments](https://github.com/VCVRack/AudibleInstruments) - 
+- [Rack](https://github.com/VCVRack/Rack) - Open-source virtual Eurorack DAW
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art.
 - [opensludge](https://github.com/opensludge/opensludge) - SLUDGE Adventure Game Engine
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
@@ -1328,9 +1293,68 @@
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [glitch](https://github.com/uasi/glitch) - JPEG とかをグリッチするやつ
 
-## Swift 
+## Ruby 
 
-- [vimr](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS
+- [vagrant-ansible-mean](https://github.com/brianium/vagrant-ansible-mean) - A Vagrant configuration using ansible to provision Ubuntu Precise and the latest versions of Node.js, MongoDB, Yeoman, and the Yeoman Angular.js generator.
+- [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS
+- [vim-node](https://github.com/moll/vim-node) - Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+- [devdocs](https://github.com/Thibaut/devdocs) - API Documentation Browser
+- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [forgiva](https://github.com/Sceptive/forgiva) - The new-age password manager.
+- [twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
+- [twittbot](https://github.com/nilsding/twittbot) - An advanced Twitter bot.
+- [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
+- [homebrew-fonts](https://github.com/caskroom/homebrew-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+- [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
+- [soundcloud2000](https://github.com/grobie/soundcloud2000) - A terminal client for https://soundcloud.com
+- [jekyll-feed](https://github.com/jekyll/jekyll-feed) - :memo: A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
+- [capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [compass-primary-plugin](https://github.com/ravinggenius/compass-primary-plugin) - Compass plugin gem to mixin PrimaryCSS-inspired layouts
+- [bedrock-capistrano](https://github.com/roots/bedrock-capistrano) - Capistrano configs/integration for Bedrock
+- [Kaffeine](https://github.com/romainbutteaud/Kaffeine) - Keeping free Heroku apps awake.
+- [vagrant](https://github.com/mitchellh/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
+- [pxlsrt](https://github.com/czycha/pxlsrt) - Pixel sorter written in Ruby
+- [poetrydb](https://github.com/thundercomb/poetrydb) - The Internet's first Poetry API
+- [everycolor](https://github.com/vogon/everycolor) - colors, all of 'em
+- [ebooks_example](https://github.com/BooDoo/ebooks_example) - Heroku-ready turn-key _ebooks implementation
+- [vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool
+- [RosettaCodeExplorer](https://github.com/aocole/RosettaCodeExplorer) - 
+- [git-wayback-machine](https://github.com/MadRabbit/git-wayback-machine) - A simple script to quickly navigate a project's state through it's GIT history
+- [git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
+- [ClickBaitFilter](https://github.com/dbreunig/ClickBaitFilter) - Regex patterns to spot bad headlines.
+- [NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
+- [burn](https://github.com/remore/burn) - A Toolkit To Create 8-bit Flavored Application
+- [wp-deploy](https://github.com/Mixd/wp-deploy) - Capistrano powered WordPress deployment.
+- [walker_method](https://github.com/cantino/walker_method) - A Ruby implementation of Walker's Alias Method for quickly sampling from an array with a given probability distribution
+- [vagrant-slitaz](https://github.com/selectany/vagrant-slitaz) - Slitaz Linux (base-cooking) based vagrant box
+- [VagrantDevEnvironment](https://github.com/meshell/VagrantDevEnvironment) - Vagrant based Linux development environment
+- [codemarks](https://github.com/gmassanek/codemarks) - Bookmarks for Social Coders!
+- [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
+- [ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
+- [beats](https://github.com/jstrait/beats) - A command-line drum machine, written in Ruby
+- [memegen](https://github.com/cmdrkeene/memegen) - Two-caption meme generator CLI
+- [meme](https://github.com/drbrain/meme) - Generate memes from http://memegenerator.net
+- [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [automatic_insurrection](https://github.com/johm/automatic_insurrection) - combinatorics for social war
+- [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for http://whatthecommit.com
+- [Windowpane](https://github.com/daeken/Windowpane) - WebGL demo generator
+- [rawthought](https://github.com/joshleitzel/rawthought) - Aaron Swartz's blog posts in Markdown, PDF, ePub, and Mobi
+- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [gboom](https://github.com/stephenchen13/gboom) - 
+- [text-entropy-api](https://github.com/lsb/text-entropy-api) - Web service (via Sinatra) to pull stats for a list of words from the text-entropy statistical models
+- [jekyll-seo-script](https://github.com/bhardin/jekyll-seo-script) - A script to help with seo on jekyll blog posts.
+- [nopassword](https://github.com/alsmola/nopassword) - An authentication and session management framework that eliminates the need for passwords.
+- [typeset.css](https://github.com/joshuarudd/typeset.css) - A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
+- [kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
+- [teamocil](https://github.com/remiprev/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
+- [zalgo](https://github.com/alexyoung/zalgo) - Ḫ̷̲̫̰̯̭̀̂̑̈ͅĚ̥̖̩̘̱͔͈͈ͬ̚ ̦̦͖̲̀ͦ͂C̜͓̲̹͐̔ͭ̏Oͭ͛͂̋ͭͬͬ͆͏̺͓̰͚͠ͅM̢͉̼̖͍̊̕Ḛ̭̭͗̉̀̆ͬ̐ͪ̒S͉̪͂͌̄
+- [glitcher](https://github.com/rjungemann/glitcher) - "Glitch up" a JPEG, and make a movie sequence for it
+- [homoiconic](https://github.com/raganwald-deprecated/homoiconic) - An experiment in publishing code and words about code on a small scale.
+- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
+- [liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 
 ## NSIS 
 
@@ -1364,7 +1388,7 @@
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [hub](https://github.com/github/hub) - hub helps you win at git.
 - [seekret](https://github.com/apuigsech/seekret) - Go library and command line to seek for secrets on various sources.
-- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder written in Go
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [polyglot](https://github.com/sausheong/polyglot) - Polyglot is a distributed web framework that allows programmers to create web applications in multiple programming languages
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 
