@@ -109,6 +109,7 @@
 
 ## JavaScript 
 
+- [pixel-sprite-generator-nodejs](https://github.com/blipn/pixel-sprite-generator-nodejs) - Create procedural 2D creatures in .png files.
 - [Rantjs](https://github.com/svenanders/Rantjs) - Procedurally generate text with JavaScript
 - [spewer](https://github.com/dariusk/spewer) - A reverse part-of-speech tagger. Give it a list of tags and it spews out matching language.
 - [wordnik-bb](https://github.com/dariusk/wordnik-bb) - A node.js interface to the Wordnik API, which lets you get dictionary definitions, random words, pronunciation, and more!
