@@ -479,7 +479,7 @@
 | 17 |  [writefreely](https://github.com/writeas/writefreely) | Build a digital writing community. | writeas | 1851 |
 | 18 |  [ascii-tv](https://github.com/martinraison/ascii-tv) | Stream ASCII movies over HTTP | martinraison | 325 |
 | 19 |  [dnote](https://github.com/dnote/dnote) | A simple command line notebook for programmers | dnote | 1947 |
-| 20 |  [gopherproxy](https://github.com/prologic/gopherproxy) | Gopher (RFC 1436) Web Proxy | prologic | 14 |
+| 20 |  [gopherproxy](https://git.mills.io/prologic/gopherproxy) | Gopher (RFC 1436) Web Proxy | prologic | 14 |
 | 21 |  [peerpx](https://github.com/peerpx/peerpx) | (wip) PeerPx server | peerpx | 59 |
 | 22 |  [lemonade](https://github.com/lemonade-command/lemonade) | Lemonade is a remote utility tool. (copy, paste and open browser) over TCP. | lemonade-command | 343 |
 | 23 |  [matterbridge](https://github.com/42wim/matterbridge) | bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!) | 42wim | 3294 |
