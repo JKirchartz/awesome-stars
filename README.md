@@ -1423,7 +1423,7 @@
 | 663 |  [jQuery-Timepicker-Addon](https://github.com/trentrichardson/jQuery-Timepicker-Addon) | Adds a timepicker to jQueryUI Datepicker | trentrichardson | 2700 |
 | 664 |  [booktorious](https://github.com/augustl/booktorious) | Proof of concept JavaScript+web browser EPUB reader | augustl | 86 |
 | 665 |  [html5media](https://github.com/etianen/html5media) | Enables &amp;lt;video&amp;gt; and &amp;lt;audio&amp;gt; tags in all major browsers. | etianen | 1272 |
-| 666 |  [video.js](https://github.com/videojs/video.js) | Video.js - open source HTML5 &amp; Flash video player | videojs | 31945 |
+| 666 |  [video.js](https://github.com/videojs/video.js) | Video.js - open source HTML5 &amp; Flash video player | videojs | 31946 |
 | 667 |  [brain](https://github.com/harthur/brain) | [UNMAINTAINED] Simple feed-forward neural network in JavaScript | harthur | 8034 |
 | 668 |  [jwysiwyg](https://github.com/jwysiwyg/jwysiwyg) | WYSIWYG jQuery Plugin | jwysiwyg | 1073 |
 | 669 |  [css_radius](https://github.com/takaaki/css_radius) |  | takaaki | 9 |
@@ -1665,7 +1665,7 @@
 | 96 |  [2018](https://github.com/NaNoGenMo/2018) | National Novel Generation Month, 2018 edition. | NaNoGenMo | 112 |
 | 97 |  [smackmyglitchupjs](https://github.com/mutaphysis/smackmyglitchupjs) | A reproduction of http://blog.soulwire.co.uk/laboratory/flash/as3-bitmapdata-glitch-generator in js | mutaphysis | 13 |
 | 98 |  [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) | Awesome list of ActivityPub based projects | BasixKOR | 448 |
-| 99 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 116105 |
+| 99 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 116106 |
 | 100 |  [lftm](https://github.com/CoralineAda/lftm) | A low-friction task management system. | CoralineAda | 201 |
 | 101 |  [awesome-static-generators](https://github.com/myles/awesome-static-generators) | A curated list of static web site generators. | myles | 1538 |
 | 102 |  [leomeloxp-zsh-theme](https://github.com/leomeloxp/leomeloxp-zsh-theme) | A zsh theme inspired by Agnoster&#39;s: https://github.com/agnoster/agnoster-zsh-theme | leomeloxp | 1 |
@@ -2054,7 +2054,7 @@
 | 85 |  [vimrc-to-json](https://github.com/Sheepolution/vimrc-to-json) | A Python script that converts a .vimrc file to a settings.json for VSCodeVim. | Sheepolution | 54 |
 | 86 |  [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. | iperov | 28381 |
 | 87 |  [butterflow](https://github.com/dthpham/butterflow) | Make motion interpolated and fluid slow motion videos from the command line. | dthpham | 1245 |
-| 88 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 153659 |
+| 88 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 153660 |
 | 89 |  [prosaic](https://github.com/vilmibm/prosaic) | cut-up poetry generation over large corpora | vilmibm | 114 |
 | 90 |  [Pituophis](https://github.com/dotcomboom/Pituophis) | Gopher client and server library for Python 3 | dotcomboom | 24 |
 | 91 |  [sopel](https://github.com/sopel-irc/sopel) | :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie. | sopel-irc | 904 |
@@ -2081,7 +2081,7 @@
 | 112 |  [pythological](https://github.com/darius/pythological) | A MiniKanren in Python | darius | 34 |
 | 113 |  [parson](https://github.com/darius/parson) | Yet another PEG parser combinator library and DSL | darius | 49 |
 | 114 |  [pykanren](https://github.com/jtauber/pykanren) | an attempt to implement miniKanren and microKanren in Python | jtauber | 51 |
-| 115 |  [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling &amp; scraping framework for Python. | scrapy | 41420 |
+| 115 |  [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling &amp; scraping framework for Python. | scrapy | 41421 |
 | 116 |  [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | josephmisiti | 51179 |
 | 117 |  [models](https://github.com/tensorflow/models) | Models and examples built with TensorFlow | tensorflow | 71075 |
 | 118 |  [xonsh](https://github.com/xonsh/xonsh) | :shell: Python-powered, cross-platform, Unix-gazing shell | xonsh | 5083 |
@@ -2264,7 +2264,7 @@
 | 295 |  [patent-generator](https://github.com/antiboredom/patent-generator) | Transforms literary/philosophical texts into patent applications | antiboredom | 314 |
 | 296 |  [trollbox](https://github.com/jfoote/trollbox) | how u troll so good? | jfoote | 5 |
 | 297 |  [theseeker](https://github.com/thricedotted/theseeker) | A &#34;&#34;&#34;novel&#34;&#34;&#34; &#34;&#34;&#34;generator&#34;&#34;&#34;. NaNoGenMo 2014 submission | thricedotted | 58 |
-| 298 |  [nltk](https://github.com/nltk/nltk) | NLTK Source | nltk | 10083 |
+| 298 |  [nltk](https://github.com/nltk/nltk) | NLTK Source | nltk | 10084 |
 | 299 |  [lovecraft_ebooks](https://github.com/jiko/lovecraft_ebooks) | Markov tweetbot based on H. P. Lovecraft&#39;s corpus | jiko | 6 |
 | 300 |  [PyTeaser](https://github.com/xiaoxu193/PyTeaser) | Summarizes news articles | xiaoxu193 | 1150 |
 | 301 |  [facealign](https://github.com/roblourens/facealign) | FaceAlign is a tool that can align a set of images containing faces | roblourens | 47 |
@@ -2883,7 +2883,7 @@
 | 99 |  [vim-javascript](https://github.com/pangloss/vim-javascript) | Vastly improved Javascript indentation and syntax support in Vim. | pangloss | 3632 |
 | 100 |  [vim-template](https://github.com/aperezdc/vim-template) | Simple templates plugin for Vim | aperezdc | 340 |
 | 101 |  [vim-gista](https://github.com/lambdalisue/vim-gista) | An alternative gist.vim, vim plugin which manipulate gists in Vim. | lambdalisue | 156 |
-| 102 |  [nerdcommenter](https://github.com/preservim/nerdcommenter) | Vim plugin for intensely nerdy commenting powers | preservim | 4352 |
+| 102 |  [nerdcommenter](https://github.com/preservim/nerdcommenter) | Vim plugin for intensely nerdy commenting powers | preservim | 4351 |
 | 103 |  [dotfiles](https://github.com/chiphogg/dotfiles) | My personal settings | chiphogg | 12 |
 | 104 |  [dot_vim](https://github.com/mutewinter/dot_vim) | 🐉 The Vim Configuration of Champions. Uses Plug to manage roughly four thousand plugins. The dragon symbolizes complexity. | mutewinter | 667 |
 | 105 |  [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | neovim | 46698 |
