@@ -523,7 +523,7 @@
 | 6 |  [gorched](https://github.com/zladovan/gorched) | Gorched is terminal based game written in Go inspired by &#34;The Mother of all games&#34; Scorched Earth | zladovan | 272 |
 | 7 |  [teoperator](https://github.com/schollz/teoperator) | Make OP-1 and OP-Z drum and synth patches from any sound. :musical_keyboard: | schollz | 87 |
 | 8 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 25148 |
-| 9 |  [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | Examples of Golang compared to Node.js for learning | miguelmota | 2546 |
+| 9 |  [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | Examples of Golang compared to Node.js for learning | miguelmota | 2547 |
 | 10 |  [x](https://github.com/Xe/x) | Various tools, trinkets and experiments | Xe | 34 |
 | 11 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 15736 |
 | 12 |  [wego](https://github.com/schachmat/wego) | weather app for the terminal | schachmat | 6802 |
@@ -781,7 +781,7 @@
 | 21 |  [postmodernize](https://github.com/fanfare/postmodernize) | 😞 | fanfare | 6 |
 | 22 |  [CollapseOS-Web-Emulator](https://github.com/schierlm/CollapseOS-Web-Emulator) | Emulating CollapseOS in the browser | schierlm | 27 |
 | 23 |  [Orca](https://github.com/hundredrabbits/Orca) | Esoteric Programming Language | hundredrabbits | 3367 |
-| 24 |  [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) | TheAlgorithms | 12143 |
+| 24 |  [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) | TheAlgorithms | 12144 |
 | 25 |  [Handel](https://github.com/ddj231/Handel) | a small procedural programming language for writting songs in browser | ddj231 | 191 |
 | 26 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 368 |
 | 27 |  [html5bytebeat](https://github.com/greggman/html5bytebeat) | Bytebeats in HTML5 | greggman | 292 |
@@ -952,7 +952,7 @@
 | 192 |  [microjs.com](https://github.com/microjs/microjs.com) | Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | microjs | 1917 |
 | 193 |  [wheelnav](https://github.com/softwaretailoring/wheelnav) | Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It can be a pie menu (radial menu, circular menu) and many more. | softwaretailoring | 668 |
 | 194 |  [scrollreveal](https://github.com/jlmakes/scrollreveal) | Animate elements as they scroll into view. | jlmakes | 19985 |
-| 195 |  [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API | discordjs | 14700 |
+| 195 |  [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API | discordjs | 14701 |
 | 196 |  [Commando](https://github.com/discordjs/Commando) | Official command framework for discord.js | discordjs | 495 |
 | 197 |  [gifwrap](https://github.com/jtlapp/gifwrap) | A Jimp-compatible library for working with GIFs | jtlapp | 50 |
 | 198 |  [nin](https://github.com/ninjadev/nin) | nin is ninjatool | ninjadev | 324 |
@@ -1190,7 +1190,7 @@
 | 430 |  [hubot-domain-me](https://github.com/sprngr/hubot-domain-me) | :robot: Quintessential package for generating dumb domain names | sprngr | 3 |
 | 431 |  [flappyBox](https://github.com/towc/flappyBox) | game by towc for js13kgames 2015 | towc | 10 |
 | 432 |  [sweet-core](https://github.com/sweet-js/sweet-core) | Sweeten your JavaScript. | sweet-js | 4488 |
-| 433 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 173864 |
+| 433 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 173865 |
 | 434 |  [levi](https://github.com/cshum/levi) | Stream based full-text search for Node.js and browsers. Built on LevelDB. | cshum | 371 |
 | 435 |  [blurber](https://github.com/originalgremlin/blurber) | Extract summary content from urls for display in Air Computing's messaging client. | originalgremlin | 1 |
 | 436 |  [bloggy-summary](https://github.com/marcells/bloggy-summary) | A summary generator for blog posts in bloggy, a small and lightweight node.js blog engine. | marcells | 2 |
@@ -1620,7 +1620,7 @@
 | 51 |  [awesome-decentralized](https://github.com/croqaz/awesome-decentralized) | 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍 | croqaz | 423 |
 | 52 |  [b1fipl](https://github.com/marcpaq/b1fipl) | A Bestiary of Single-File Implementations of Programming Languages | marcpaq | 851 |
 | 53 |  [90s_phone_theme](https://github.com/jonvaldes/90s_phone_theme) | An elegant phone theme for a more civilized age | jonvaldes | 41 |
-| 54 |  [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro | AllThingsSmitty | 18986 |
+| 54 |  [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro | AllThingsSmitty | 18987 |
 | 55 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 47711 |
 | 56 |  [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: | DopplerHQ | 42212 |
 | 57 |  [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | enaqx | 44964 |
@@ -1641,7 +1641,7 @@
 | 72 |  [hacker-news-for-x](https://github.com/mikeanthonywild/hacker-news-for-x) | List of Hacker News-style aggregators for specific niches. | mikeanthonywild | 81 |
 | 73 |  [blinkenlights-poster](https://github.com/cclindsay/blinkenlights-poster) | A modern recreation of the classic &#34;Blinkenlights&#34; poster, as described in The Jargon File. | cclindsay | 2 |
 | 74 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 93983 |
-| 75 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 | kamranahmedse | 169729 |
+| 75 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 | kamranahmedse | 169730 |
 | 76 |  [dad-jokes](https://github.com/wesbos/dad-jokes) | dad jokes | wesbos | 2277 |
 | 77 |  [games](https://github.com/leereilly/games) | :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | leereilly | 18157 |
 | 78 |  [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) | A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references. | emijrp | 57 |
@@ -1665,7 +1665,7 @@
 | 96 |  [2018](https://github.com/NaNoGenMo/2018) | National Novel Generation Month, 2018 edition. | NaNoGenMo | 112 |
 | 97 |  [smackmyglitchupjs](https://github.com/mutaphysis/smackmyglitchupjs) | A reproduction of http://blog.soulwire.co.uk/laboratory/flash/as3-bitmapdata-glitch-generator in js | mutaphysis | 13 |
 | 98 |  [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) | Awesome list of ActivityPub based projects | BasixKOR | 448 |
-| 99 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 116106 |
+| 99 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 116107 |
 | 100 |  [lftm](https://github.com/CoralineAda/lftm) | A low-friction task management system. | CoralineAda | 201 |
 | 101 |  [awesome-static-generators](https://github.com/myles/awesome-static-generators) | A curated list of static web site generators. | myles | 1538 |
 | 102 |  [leomeloxp-zsh-theme](https://github.com/leomeloxp/leomeloxp-zsh-theme) | A zsh theme inspired by Agnoster's: https://github.com/agnoster/agnoster-zsh-theme | leomeloxp | 1 |
@@ -1865,7 +1865,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [soldat](https://github.com/Soldat/soldat) | Soldat is a unique 2D (side-view) multiplayer action game | Soldat | 1262 |
-| 2 |  [cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding | cheat-engine | 6361 |
+| 2 |  [cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding | cheat-engine | 6362 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1984,7 +1984,7 @@
 | 15 |  [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | CorentinJ | 29360 |
 | 16 |  [piazzolla](https://github.com/huertatipografica/piazzolla) | Piazzolla type family | huertatipografica | 85 |
 | 17 |  [epr](https://github.com/wustho/epr) | CLI Epub Reader | wustho | 723 |
-| 18 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 99544 |
+| 18 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 99545 |
 | 19 |  [godspeaks](https://github.com/rethyxyz/godspeaks) | Python port of programmer Terry Davis's (R.I.P.) GodSpeaks program | rethyxyz | 8 |
 | 20 |  [stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) | Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement | lucidrains | 2426 |
 | 21 |  [stylegan2](https://github.com/NVlabs/stylegan2) | StyleGAN2 - Official TensorFlow Implementation | NVlabs | 8306 |
@@ -2038,7 +2038,7 @@
 | 69 |  [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) | A small course on exploiting and defending neural networks | Kayzaks | 2360 |
 | 70 |  [language-check](https://github.com/myint/language-check) | Python wrapper for LanguageTool grammar checker | myint | 274 |
 | 71 |  [markovsfanfics](https://github.com/MineRobber9000/markovsfanfics) | Who knew Markov wrote fanfiction? | MineRobber9000 | 2 |
-| 72 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | huggingface | 50525 |
+| 72 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | huggingface | 50526 |
 | 73 |  [svgo-inkscape](https://github.com/juanfran/svgo-inkscape) | Inkscape extension for use SVGO | juanfran | 74 |
 | 74 |  [tv](https://github.com/daleroberts/tv) | Quickly view (satellite) imagery directly in your terminal using Unicode 9.0 characters and true color. | daleroberts | 378 |
 | 75 |  [bv](https://github.com/daleroberts/bv) | Quickly view satellite imagery, hyperspectral imagery, and machine learning image outputs directly in your iTerm2 terminal. | daleroberts | 217 |
@@ -2481,7 +2481,7 @@
 | 15 |  [Plume](https://github.com/Plume-org/Plume) | Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) | Plume-org | 1564 |
 | 16 |  [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly | copy | 11578 |
 | 17 |  [gophsters](https://github.com/julienXX/gophsters) | Generate a gophermap from lobste.rs recent stories | julienXX | 14 |
-| 18 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 77583 |
+| 18 |  [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime | denoland | 77584 |
 | 19 |  [notty](https://github.com/withoutboats/notty) | A new kind of terminal | withoutboats | 2046 |
 | 20 |  [hyperstencil](https://github.com/frozenbears/hyperstencil) | A bespoke multichannel raw image utility | frozenbears | 3 |
 | 21 |  [glitch](https://github.com/uasi/glitch) | JPEG とかをグリッチするやつ | uasi | 2 |
@@ -2740,7 +2740,7 @@
 | 39 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11458 |
 | 40 |  [canvg](https://github.com/canvg/canvg) | Javascript SVG parser and renderer on Canvas | canvg | 2893 |
 | 41 |  [tfjs-core](https://github.com/tensorflow/tfjs-core) | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. | tensorflow | 8523 |
-| 42 |  [chromeless](https://github.com/prisma-archive/chromeless) | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | prisma-archive | 13250 |
+| 42 |  [chromeless](https://github.com/prisma-archive/chromeless) | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | prisma-archive | 13251 |
 | 43 |  [shoelace](https://github.com/shoelace-style/shoelace) | A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾 | shoelace-style | 5324 |
 | 44 |  [BlokDust](https://github.com/BlokDust/BlokDust) | :musical_keyboard: A free to use web-based music making app. Make sounds, build instruments and share your creations. | BlokDust | 580 |
 | 45 |  [superpowers-core](https://github.com/superpowers/superpowers-core) | :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects | superpowers | 1514 |
