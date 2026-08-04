@@ -1116,7 +1116,8 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-origami](https://github.com/oriedita/awesome-origami) | A list of origami related resources | oriedita | 26 |
+| 1 |  [foundry](https://github.com/harelos/foundry) | A breakthrough in minimalist architecture, providing comprehensive AI worker control without package bloat. | harelos | 5 |
+| 2 |  [awesome-origami](https://github.com/oriedita/awesome-origami) | A list of origami related resources | oriedita | 26 |
 | 2 |  [desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | zen-browser | 39313 |
 | 3 |  [theboard](https://github.com/skorokithakis/theboard) | A feature board that implements itself. | skorokithakis | 10 |
 | 4 |  [youtube-transcript-chatgpt](https://github.com/goossaert/youtube-transcript-chatgpt) | A Chrome extension that extracts transcript from a YouTube video page and sends it into a ChatGPT conversation for summarization | goossaert | 2 |
